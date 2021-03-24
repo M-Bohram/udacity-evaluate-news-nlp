@@ -65,8 +65,8 @@ npm install
 **(Currently, prod mode allows you to see the results of the API fetch)**:
 
 - cd into your new folder and run in prod mode
-- `npm install`
-- `npm start` run the Express server on port 8081
+- `npm install` installs the dependencies and devDependencies in project.json file
+- `npm start` runs the Express server on port 8081
 - `npm run build-dev` builds and runs the webpack dev server for development
 - `npm run build-prod` builds and generates a dist folder for production
 
