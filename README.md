@@ -66,8 +66,9 @@ npm install
 
 - cd into your new folder and run in prod mode
 - `npm install`
-- `npm run` build-prod to generate a dist folder for prod
-- `npm run` start to run the Express server on port 8080
+- `npm start` run the Express server on port 8081
+- `npm run build-dev` builds and runs the webpack dev server for development
+- `npm run build-prod` builds and generates a dist folder for production
 
 **Note:** The web page can be accessed with `localhost:8080`
 
